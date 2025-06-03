@@ -19,8 +19,8 @@ This project demonstrates how to use **Amazon Rekognition** to detect, analyze, 
 4. Visualized results in the AWS console
 
 ### 📥 Input Images
-rekognition-face-analysis/images/input1.jpg
-rekognition-face-analysis/images/input2.jpg
+![Input 1](images/input1.jpg)
+![Input 2](images/input2.jpg)
 
 ## 📚 Reference
 Based on this AWS Hands-On Tutorial:  
